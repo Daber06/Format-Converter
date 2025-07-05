@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "electron": "^36.5.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.6.3",
+    "node": "^24.2.0",
+    "path": "^0.12.7",
+    "sharp": "^0.34.2"
+  },
+  "name": "imageconverter",
+  "version": "1.0.0",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
